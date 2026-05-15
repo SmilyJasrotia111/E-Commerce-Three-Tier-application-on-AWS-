@@ -161,18 +161,7 @@ Deploy with Helm:
 helm install ecommerce-mart ./ecommerce-chart
 ```
 
-## Suggested M.Tech Report Structure
 
-1. Introduction and motivation
-2. Literature review on cloud-native e-commerce systems
-3. Problem statement and objectives
-4. System architecture and module design
-5. Database schema and API design
-6. Implementation details
-7. Containerization and Kubernetes deployment
-8. Testing and results
-9. Limitations
-10. Future scope
 
 ## Future Enhancements
 
