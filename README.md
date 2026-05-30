@@ -1,6 +1,6 @@
 # Ecommerce Mart: Three-Tier E-Commerce Cloud Project
 
-Ecommerce Mart is a full-stack academic project for an M.Tech student. It demonstrates a three-tier e-commerce architecture with a React presentation tier, Flask REST API application tier, MySQL data tier, Docker Compose for local orchestration, and Kubernetes manifests for cloud-native deployment.
+It demonstrates a three-tier e-commerce architecture with a React presentation tier, Flask REST API application tier, MySQL data tier, Docker Compose for local orchestration, and Kubernetes manifests for cloud-native deployment.
 
 ## Project Objectives
 
